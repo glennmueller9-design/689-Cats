@@ -1,4 +1,0 @@
-// 689 Cats Konfiguration
-// URL und Key immer in Anführungszeichen setzen.
-window.CATS_SUPABASE_URL = "https://unfkirkbirqpwdroadgy.supabase.co";
-window.CATS_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVuZmtpcmtiaXJxcHdkcm9hZGd5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI2MjcwMjIsImV4cCI6MjA5ODIwMzAyMn0.juNsGOB2DXSK7mja9Iw7aEwLiTWx6CODeYewWn8x6VE";
